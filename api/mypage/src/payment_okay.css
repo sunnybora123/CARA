@@ -1,0 +1,14 @@
+.success-container {
+    text-align: center;
+    margin: 50px;
+  }
+  
+  h1 {
+    color: #4caf50;
+  }
+  
+  .success-paragraph {
+    font-size: 18px;
+    color: #333;
+    margin-top: 20px;
+  }
